@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//scrapy_movie/items.py=utf-8
+encoding//scrapy_movie/settings.py=utf-8
+encoding//scrapy_movie/spiders/discovery_movie_spider.py=utf-8
+encoding//scrapy_movie/spiders/doulie_movie_spider.py=utf-8
+encoding//scrapy_movie/spiders/filter_movie_spider.py=utf-8
+encoding//transform/transfrom_csv.py=utf-8
