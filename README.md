@@ -1,2 +1,2 @@
 # scrapy-douban-movie
-spider douban.com movies：hot、classic、filter、new、top
+spider douban.com movies：hot、classic、new、top
